@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#new things
+data/
+datasets/
+raw_scans/
+checkpoints/
+*.pt
+*.pth
